@@ -1,1 +1,1 @@
-Criado o Readme do Jogo do numero secreto
+O projeto do Número secreto serviu para treinar controle de vesoes no github
